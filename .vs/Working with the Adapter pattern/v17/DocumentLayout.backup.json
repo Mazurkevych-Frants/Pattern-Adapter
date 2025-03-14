@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|c:\\users\\lenovo\\source\\repos\\working with the adapter pattern\\working with the adapter pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|solutionrelative:working with the adapter pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|c:\\users\\lenovo\\source\\repos\\working with the adapter pattern\\working with the adapter pattern\\classes\\xmltojsonadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|solutionrelative:working with the adapter pattern\\classes\\xmltojsonadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|c:\\users\\lenovo\\source\\repos\\working with the adapter pattern\\working with the adapter pattern\\classes\\xmlformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|solutionrelative:working with the adapter pattern\\classes\\xmlformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|c:\\users\\lenovo\\source\\repos\\working with the adapter pattern\\working with the adapter pattern\\interfaces\\ixml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|solutionrelative:working with the adapter pattern\\interfaces\\ixml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|c:\\users\\lenovo\\source\\repos\\working with the adapter pattern\\working with the adapter pattern\\interfaces\\ijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|solutionrelative:working with the adapter pattern\\interfaces\\ijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|c:\\users\\lenovo\\source\\repos\\working with the adapter pattern\\working with the adapter pattern\\classes\\jsonformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9417AE-FB9F-4719-A69E-98C7DF437C5E}|Working with the Adapter pattern\\Working with the Adapter pattern.csproj|solutionrelative:working with the adapter pattern\\classes\\jsonformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XmlToJsonAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Classes\\XmlToJsonAdapter.cs",
+              "RelativeDocumentMoniker": "Working with the Adapter pattern\\Classes\\XmlToJsonAdapter.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Classes\\XmlToJsonAdapter.cs",
+              "RelativeToolTip": "Working with the Adapter pattern\\Classes\\XmlToJsonAdapter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:32:20.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IXml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Interfaces\\IXml.cs",
+              "RelativeDocumentMoniker": "Working with the Adapter pattern\\Interfaces\\IXml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Interfaces\\IXml.cs",
+              "RelativeToolTip": "Working with the Adapter pattern\\Interfaces\\IXml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:29:26.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJson.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Interfaces\\IJson.cs",
+              "RelativeDocumentMoniker": "Working with the Adapter pattern\\Interfaces\\IJson.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Interfaces\\IJson.cs",
+              "RelativeToolTip": "Working with the Adapter pattern\\Interfaces\\IJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:29:17.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonFormat.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Classes\\JsonFormat.cs",
+              "RelativeDocumentMoniker": "Working with the Adapter pattern\\Classes\\JsonFormat.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Classes\\JsonFormat.cs",
+              "RelativeToolTip": "Working with the Adapter pattern\\Classes\\JsonFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:27:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XmlFormat.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Classes\\XmlFormat.cs",
+              "RelativeDocumentMoniker": "Working with the Adapter pattern\\Classes\\XmlFormat.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Classes\\XmlFormat.cs",
+              "RelativeToolTip": "Working with the Adapter pattern\\Classes\\XmlFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:27:09.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Working with the Adapter pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Working with the Adapter pattern\\Working with the Adapter pattern\\Program.cs",
+              "RelativeToolTip": "Working with the Adapter pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:52:28.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

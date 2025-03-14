@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\bin\Debug\net8.0\Working with the Adapter pattern.exe
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\bin\Debug\net8.0\Working with the Adapter pattern.deps.json
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\bin\Debug\net8.0\Working with the Adapter pattern.runtimeconfig.json
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\bin\Debug\net8.0\Working with the Adapter pattern.dll
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\bin\Debug\net8.0\Working with the Adapter pattern.pdb
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\Working with the Adapter pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\Working with the Adapter pattern.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\Working with the Adapter pattern.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\Working with the Adapter pattern.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\Working with the Adapter pattern.sourcelink.json
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\Working with the Adapter pattern.dll
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\refint\Working with the Adapter pattern.dll
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\Working with the Adapter pattern.pdb
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\Working with the Adapter pattern.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Working with the Adapter pattern\Working with the Adapter pattern\obj\Debug\net8.0\ref\Working with the Adapter pattern.dll
